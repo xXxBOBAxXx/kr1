@@ -1,4 +1,4 @@
-﻿string str = "\"hello\", \"2\", \"world\", \":-)\"";
+﻿string str = Console.ReadLine();
 
 string[] strs = str.Split(',');
 
